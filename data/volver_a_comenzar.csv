@@ -1,6 +1,7 @@
 error,gravedad,clase
 "Lorem ipsum dolor sit amet",menor,herida
 "Sed eget elit ut enim cursus",menor,herida
+"Sed eget elit ut enim lalalalalala",menor,fracaso
 "Donec at ipsum eu ante pretium",menor,fracaso
 "Nunc efficitur libero placerat",menor,fracaso
 "Fusce maximus dui eu rutrum",menor,desamor
@@ -14,4 +15,7 @@ error,gravedad,clase
 "Nam fringilla mauris maximus convallis",peor,desamor
 "Duis gravida sapien nec auctor bibendum",peor,desamor
 "Cras tincidunt mauris quis tempor",peor,mentira
+"Etiam euismod dui at euismod pharetra",peor,mentira
+"Etiam euismod dui at euismod pharetra",peor,mentira
+"Cuando dije que si me interesaba",peor,mentira
 "Etiam euismod dui at euismod pharetra",peor,mentira
